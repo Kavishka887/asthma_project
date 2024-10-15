@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "259981669556",
+    "project_id": "asthma-project-85044",
+    "storage_bucket": "asthma-project-85044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259981669556:android:a86dcdc82c4d76529013e1",
+        "android_client_info": {
+          "package_name": "com.kavinda.asthma_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259981669556-254heuk87lh2f2aqfrb29hss2j9q8vbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kavinda.asthma_project",
+            "certificate_hash": "181998b6c82c660f022e9a8d2ff6f2a2e8551e25"
+          }
+        },
+        {
+          "client_id": "259981669556-bitsbq0akpg18p19525f6tbdcph9cjgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8rQdocmvUu5JGpr4W5NykbXahNTI7xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259981669556-bitsbq0akpg18p19525f6tbdcph9cjgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
